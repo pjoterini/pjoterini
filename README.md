@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piotr Górski</h1>
-<h3 align="center">Graduated architect with ambitions to become a decent fullstack developer.</h3>
+<h3 align="center">Graduated architect with ambitions to become a very decent fullstack developer.</h3>
 
 - 🌱 I’m currently learning **React,NextJS and TypeScript**
 
