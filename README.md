@@ -9,7 +9,6 @@
 
 - 📄 check my Curriculum Vitae [https://piotrgorskiportfolio.glitch.me/images/CV_eng_links.pdf](https://piotrgorskiportfolio.glitch.me/images/CV_eng_links.pdf)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
