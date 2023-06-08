@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Piotr Górski</h1>
 <h3 align="center">Graduated architect with ambitions to become a very decent fullstack developer.</h3>
 
-- 🌱 I’m currently learning **React,NextJS and TypeScript**
+- 🌱 I’m currently mastering **React,NextJS and TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://piotrgorskiportfolio.glitch.me/](https://piotrgorskiportfolio.glitch.me/)
+- 👨‍💻 All of my projects are available at [https://piotrgorskiportfolio.vercel.app/](https://piotrgorskiportfolio.vercel.app/)
 
 - 📫 How to reach me **piotrekjan.gorski@gmail.com**
 
-- 📄 check my Curriculum Vitae [https://piotrgorskiportfolio.glitch.me/assets/CV_Piotr_Górski_eng_noTel.pdf](https://piotrgorskiportfolio.glitch.me/assets/CV_Piotr_Górski_eng_noTel.pdf)
+- 📄 check my Curriculum Vitae [https://piotrgorskiportfolio.vercel.app/assets/CV_Piotr_G%C3%B3rski_eng_noTel.pdf](https://piotrgorskiportfolio.vercel.app/assets/CV_Piotr_G%C3%B3rski_eng_noTel.pdf)
 
 <p align="left">
 </p>
