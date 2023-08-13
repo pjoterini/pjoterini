@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **piotrekjan.gorski@gmail.com**
 
-- 📄 check my Curriculum Vitae [https://piotrgorskiportfolio.vercel.app/assets/CV_Piotr_G%C3%B3rski_eng_noTel.pdf](https://piotrgorski.com/assets/CV_Piotr_G%C3%B3rski_eng_noTel.pdf)
+- 📄 check my Curriculum Vitae [https://piotrgorski.com/assets/CV_Piotr_G%C3%B3rski_eng_noTel.pdf](https://piotrgorski.com/assets/CV_Piotr_G%C3%B3rski_eng_noTel.pdf)
 
 <p align="left">
 </p>
