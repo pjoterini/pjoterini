@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://piotrgorski.com](https://piotrgorski.com)
 
-- 📫 How to reach me **piotrekjan.gorski@gmail.com**
+- 📫 How to reach me **hello@piotrgorski.com**
 
 - 📄 check my Curriculum Vitae [https://piotrgorski.com/assets/CV_Piotr_G%C3%B3rski_eng_noTel.pdf](https://piotrgorski.com/assets/CV_Piotr_G%C3%B3rski_eng_noTel.pdf)
 
