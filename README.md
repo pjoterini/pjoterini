@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Piotr Górski</h1>
-<h3 align="center">Graduated Architect Turned Web Developer</h3>
+<h1 align="center">Hello, I'm Piotr Górski</h1>
+<h3 align="center">Web Development, Email Marketing, Architect by education</h3>
 
-- 🌱 I’m currently mastering **React,NextJS and TypeScript**
+- 🌱 I’m good with **React and TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://piotrgorski.com](https://piotrgorski.com)
 
 - 📫 How to reach me **hello@piotrgorski.com**
 
-- 📄 check my Curriculum Vitae [https://piotrgorski.com/assets/CV_Piotr_G%C3%B3rski_eng_noTel.pdf](https://piotrgorski.com/assets/CV_Piotr_G%C3%B3rski_eng_noTel.pdf)
+- 📄 take a look on my Curriculum Vitae [HERE](https://piotrgorski.com/assets/CV_Piotr_G%C3%B3rski_eng_noTel.pdf)
 
 <p align="left">
 </p>
