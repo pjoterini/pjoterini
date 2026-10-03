@@ -1,5 +1,5 @@
 <h2>Hey,</h2>
-<h3 align="center">I do Full Stack Web Development currently.</h3>
+<h3>I do Full Stack Web Development currently.</h3>
 
 - 👨‍💻 All of my projects are available at [https://piotrgorski.com](https://piotrgorski.com)
 
